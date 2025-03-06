@@ -1,0 +1,4 @@
+../Core/Src/Eeprom.c:19:6:Eeprom_Init	16	static
+../Core/Src/Eeprom.c:28:14:Eeprom_ReadCalibration	48	static
+../Core/Src/Eeprom.c:44:6:Eeprom_SendCalibration	24	static
+../Core/Src/Eeprom.c:65:6:Eeprom_WriteData	32	static

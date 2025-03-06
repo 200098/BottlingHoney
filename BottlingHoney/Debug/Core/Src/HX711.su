@@ -1,5 +1,0 @@
-../Core/Src/HX711.c:16:6:HX711_Init	16	static
-../Core/Src/HX711.c:29:9:HX711_getRawData	16	static
-../Core/Src/HX711.c:59:9:HX711_getAverageWeight	32	static
-../Core/Src/HX711.c:74:9:HX711_getCalculatedWeight	24	static
-../Core/Src/HX711.c:93:14:HX711_calibration	40	static

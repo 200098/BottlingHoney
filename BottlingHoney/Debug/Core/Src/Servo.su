@@ -1,2 +1,0 @@
-../Core/Src/Servo.c:13:6:Servo_Init	24	static
-../Core/Src/Servo.c:23:6:Servo_SetPWMSignal	16	static

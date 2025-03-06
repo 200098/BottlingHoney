@@ -1,4 +1,0 @@
-../Core/Src/Button.c:17:6:ButtonInit	24	static
-../Core/Src/Button.c:28:6:ButtonHandleIRQ	16	static
-../Core/Src/Button.c:37:6:ButtonTask	16	static
-../Core/Src/Button.c:76:7:ButtonIsPressed	16	static

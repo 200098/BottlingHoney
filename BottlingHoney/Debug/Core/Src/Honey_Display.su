@@ -1,3 +1,0 @@
-../Core/Src/Honey_Display.c:40:6:DisplayInit	16	static
-../Core/Src/Honey_Display.c:51:6:DisplayWithoutParameters	24	static
-../Core/Src/Honey_Display.c:155:6:DisplayWithParameters	32	static

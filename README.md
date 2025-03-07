@@ -5,7 +5,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 - Nucleo STM32F103RB
 - Own Shield
-- Cube envioment
+- Cube environment
 ### First usage
 - Download repository
 - Build it and write it on the board
